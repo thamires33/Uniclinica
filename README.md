@@ -47,6 +47,7 @@ erDiagram
     Medico ||--o| Departamento : "pertence_a"
     Paciente ||--o{ Internacao : "passa_por"
 
+
     erDiagram
     Pacientes {
         UUID id_paciente PK "UUID único do paciente"
