@@ -1,4 +1,5 @@
-# Modelo Lógico – HealthHeaven Clinic
+# Modelo Lógico – Uniclinica
+
 
 Este arquivo contém a definição detalhada das tabelas e seus atributos, além dos relacionamentos entre elas.
 
