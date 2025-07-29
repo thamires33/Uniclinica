@@ -1,8 +1,8 @@
-# HealthHeaven Clinic: Análise de Dados e Dashboard Power BI
+# Uniclínica: Análise de Dados e Dashboard Power BI
 
 ## Visão Geral do Projeto
 
-Este projeto demonstra a construção de um pipeline completo de dados, desde a geração de dados fictícios até a criação de um dashboard interativo no Power BI. O foco é simular as operações de uma clínica médica fictícia, a "HealthHeaven", com o objetivo de fornecer insights sobre pacientes, consultas, exames, medicamentos e internações.
+Este projeto demonstra a construção de um pipeline completo de dados, desde a geração de dados fictícios até a criação de um dashboard interativo no Power BI. O foco é simular as operações de uma clínica médica fictícia, a "Uniclínica", com o objetivo de fornecer insights sobre pacientes, consultas, exames, medicamentos e internações.
 
 Este repositório foi desenvolvido como parte de um portfólio em Ciência e Análise de Dados, e demonstra habilidades nas seguintes áreas:
 
